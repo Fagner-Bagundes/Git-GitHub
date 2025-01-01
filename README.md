@@ -42,3 +42,8 @@ function falaoi(){
 <h1>Hellor world</h1>
 ```
 
+### task lists:
+
+- [ ] bleach é bom
+- [x] breach é ruim
+
