@@ -1,4 +1,9 @@
+
+
+<div align="center">
+
 ![git img](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+</div>
 
 [minhas-redes](#minhas-redes)
 [colocando-código](#colocando-códigos)
