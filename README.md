@@ -1,3 +1,4 @@
-# Aprendendo Github
-
-estou criando esse readme para praticar git
+# Titulos principal
+    Aprendendo markdown
+## Subtitulo 
+    entendendo como funciona titulos no mark down
