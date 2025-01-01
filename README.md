@@ -1,4 +1,8 @@
 ![git img](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+
+[minhas-redes](#minhas-redes)
+[colocando-código](#colocando-códigos)
+
 # Titulo principal
 Aprendendo markdown
 ## Subtitulo 
