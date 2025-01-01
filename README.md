@@ -47,3 +47,9 @@ function falaoi(){
 - [ ] bleach é bom
 - [x] breach é ruim
 
+alunos | notas | media
+-------|-------|------
+Fagner | 10    | 5
+Vagner | 5     | 5
+Eduardo| 3     | 5
+Nalda  | 9     | 5
