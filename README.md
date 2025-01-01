@@ -1,4 +1,4 @@
 # Titulos principal
-    Aprendendo markdown
+Aprendendo markdown
 ## Subtitulo 
-    entendendo como funciona titulos no mark down
+entendendo como funciona titulos no mark down
